@@ -1,0 +1,10 @@
+arith
+*.iml
+*.ipr
+*.iws
+target
+.project
+nbproject
+.svn
+.idea
+.wupsi_history
